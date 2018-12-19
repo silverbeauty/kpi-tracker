@@ -1,0 +1,12 @@
+@import "ember-bootstrap/bootstrap";
+@import "main";
+
+body, .h-screen {
+  height: 100vh;
+}
+
+.form-group.has-error input {
+  border-color: #dc3545;
+}
+
+@import "ember-bootstrap/bootstrap";
